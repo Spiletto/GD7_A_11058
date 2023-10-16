@@ -109,7 +109,7 @@ class="seatplan"></img>
             </div>
 
             <div class="mt-4">
-                <h4>Packages< /h4>
+                <h4>Packages</h4>
                 <hr>
                 @if($ticket->isEmpty())
                  <p style="color:white">No tickets available at the moment.</p>
