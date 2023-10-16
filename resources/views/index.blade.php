@@ -128,7 +128,7 @@ processing fee of IDR 25,000,-.</p>
                                 <p class="card-text">
                                     <i class="fa-solid fa-check-to-slot"
 style="color: #ffffff; margin-right: 10px"></i>
-                                    Available seats : {{ $item->stock} }</p>
+                                    Available seats : {{ $item->stock }}</p>
                                     <a style="float:right" href="#"
 class="btn btn-outline btn-book">Select Ticket</a>
                                     <p style=
