@@ -105,6 +105,11 @@ data-bs-dismiss="offcanvas" aria-label="Close">
         <p>GET THE TICKETS</p>
         </div>
     </a>
+    <a href="{{ url('/merchandise') }}" class="header-option">
+    <div>
+        <p>GET THE MERCHANDISE</p>
+        </div>
+    </a>
         </div>
     </div>
 
